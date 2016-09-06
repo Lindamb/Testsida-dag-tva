@@ -13,5 +13,8 @@ p {
 }
 
 .barcelona {
-	width: 150%;
+	width: 100%;
+}
+.column1 {
+	background: white;
 }
