@@ -7,3 +7,12 @@ h1 {
 	color: #ef6b3e;
 	text-align: center;
 }
+
+p {
+	font-family: verdana; 
+}
+
+.barcelona {
+	width: 800px;
+	height: 50%;
+}
